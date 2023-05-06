@@ -15,11 +15,11 @@ Este é um exemplo de aplicação CRUD (Create, Read, Update, Delete) de usuári
 
 2.  Instale as dependências do projeto:
 
-`cd CRUD_User npm install` 
+`cd CRUD_User yarn install` 
 
 3.  Inicie o servidor de desenvolvimento:
 
-`yarn start` 
+`yarn dev` 
 
 4.  Acesse a aplicação em seu navegador em [http://localhost:3000](http://localhost:3000/).
 
